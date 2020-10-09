@@ -1,0 +1,1 @@
+A custom masked Textbox for Windows Forms C# application. Either you can clone the repository and build on your own or you can directly add reference to the DLL from bin/release folder. Just add reference in toolbox items and start using it. You can set the watermark text and custom masks.
